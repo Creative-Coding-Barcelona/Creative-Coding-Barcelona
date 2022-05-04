@@ -1,0 +1,16 @@
+current directory: /media/ra/hd2/projects/2022/creative-coding-barcelona/repo/docs/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220504-5526-15qnytp.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /media/ra/hd2/projects/2022/creative-coding-barcelona/repo/docs/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /media/ra/hd2/projects/2022/creative-coding-barcelona/repo/docs/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /media/ra/hd2/projects/2022/creative-coding-barcelona/repo/docs/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.8.1/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20220504-5526-3djdn8

@@ -1,0 +1,16 @@
+current directory: /media/ra/hd2/projects/2022/creative-coding-barcelona/repo/docs/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220504-5526-18a359u.rb extconf.rb
+creating Makefile
+
+current directory: /media/ra/hd2/projects/2022/creative-coding-barcelona/repo/docs/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /media/ra/hd2/projects/2022/creative-coding-barcelona/repo/docs/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /media/ra/hd2/projects/2022/creative-coding-barcelona/repo/docs/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20220504-5526-7m4f6k
