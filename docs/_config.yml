@@ -16,9 +16,8 @@
 title: Creative Coding Barcelona
 email: creativecoding.barcelona@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Creative Coding Barcelona es una comunidad de personas interesadas en todos los diferentes aspectos creativos de la programación. Damos la bienvenida a tod@s, independientemente de su experiencia previa o de sus habilidades informáticas. Si estás dando tus primeros pasos como programador, eres un artista multimedia experimentado o incluso, si no tienes nada de experiencia programando, ¡este grupo es para ti!
+  Nuestra misión es el compartir e intercambiar conocimiento e inspiración sobre el arte computacional e inspirar colaboraciones multidisciplinarias. Para esto, organizamos reuniones informales, en las que cualquiera puede compartir sus proyectos, hablar sobre algo que le interesa y compartir puntos de vista con personas que comparten intereses similares.
 baseurl: "/Creative-Coding-Barcelona" # the subpath of your site, e.g. /blog
 url: "https://Creative-Coding-Barcelona.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ccoding_bcn
@@ -26,10 +25,16 @@ github_username:  Creative-Coding-Barcelona
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-
+#defaults:
+#  -
+#    scope:
+#      path: "" # an empty string here means all files in the project
+#      type: "posts" # previously `post` in Jekyll 2.2.
+#    values:
+#      layout: "default"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
